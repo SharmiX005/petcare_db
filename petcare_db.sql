@@ -1,4 +1,4 @@
---Databse:petcare_db
+--Database:petcare_db
 create database petcare;
 use petcare;
 --table 1:customer
